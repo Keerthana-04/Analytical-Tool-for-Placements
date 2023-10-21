@@ -4,8 +4,8 @@
 
 "G.MANASA"
 
-"S.Mothini"
+"S.MOTHINI"
 
 "P.NIVETHA"
 
-"S. Keerthana"
+"S. KEERTHANA"
