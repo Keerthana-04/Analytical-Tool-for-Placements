@@ -2,10 +2,10 @@
 
 |"TEAM ID : NM2023TMID09411"
 
-"G.MANASA"
+Team Lead: "G.MANASA"
 
-"S.MOTHINI"
+Team Member 1: "S.MOTHINI"
 
-"P.NIVETHA"
+Team Member 2: "P.NIVETHA"
 
-"S. KEERTHANA"
+Team Member 3: "S. KEERTHANA"
